@@ -1,0 +1,8 @@
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/install/strip.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/install/local.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/uvcstatic.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/uvc.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/edit_cache.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/rebuild_cache.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/list_install_components.dir
+/home/pi/purethermal1-uvc-capture/python/libuvc/build/CMakeFiles/install.dir
